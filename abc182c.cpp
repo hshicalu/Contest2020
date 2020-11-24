@@ -1,11 +1,10 @@
-//abc181c
 
 #include <bits/stdc++.h>
 using namespace std;
 
 int main(void) {
     
-    int n;
+    long long n;
     cin >> n;
     string input = to_string(n);
     int num = input.length();
