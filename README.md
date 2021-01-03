@@ -1,2 +1,2 @@
 # Contest2021  
-2021年競技プログラミング
+Programming contest 2021
